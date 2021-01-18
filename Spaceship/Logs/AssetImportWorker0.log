@@ -1,0 +1,143 @@
+Using pre-set license
+
+ COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/tylerprince/Documents/GitHub/Spaceship/Spaceship
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49685
+Successfully changed project path to: /Users/tylerprince/Documents/GitHub/Spaceship/Spaceship
+/Users/tylerprince/Documents/GitHub/Spaceship/Spaceship
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 22.10 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.2.1f1 (270dd8c3da1c)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/tylerprince/Documents/GitHub/Spaceship/Spaceship/Assets
+GfxDevice: creating device client; threaded=0
+2021-01-18 10:45:32.535 Unity[79136:26694165] iMac preferred device: AMD Radeon Pro Vega 56 (high power)
+2021-01-18 10:45:32.535 Unity[79136:26694165] Metal devices available: 1
+2021-01-18 10:45:32.535 Unity[79136:26694165] 0: AMD Radeon Pro Vega 56 (high power)
+2021-01-18 10:45:32.536 Unity[79136:26694165] Using device AMD Radeon Pro Vega 56 (high power)
+Initializing Metal device caps: AMD Radeon Pro Vega 56
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56136
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000744 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 21.70 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.675 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.000394 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.861 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launching external process: /Applications/Unity/Hub/Editor/2020.2.1f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.02 seconds
+Refreshing native plugins compatible for Editor in 0.24 ms, found 1 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1101 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 121.2 MB.
+System memory in use after: 121.2 MB.
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1540.
+Total: 1.973765 ms (FindLiveObjects: 0.177405 ms CreateObjectMapping: 0.026524 ms MarkObjects: 1.689069 ms  DeleteObjects: 0.079386 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/explosion.wav
+  artifactKey: Guid(98c014e6f5b194e499802e2534ec98a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/explosion.wav using Guid(98c014e6f5b194e499802e2534ec98a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7abe2e86325613a6d0c8476010718905') in 0.453445 seconds
+  Import took 0.455644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/flint_like_rock_4787.jpg
+  artifactKey: Guid(cd9a9de777a3c4c70afbb05144097116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/flint_like_rock_4787.jpg using Guid(cd9a9de777a3c4c70afbb05144097116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d45c12ab010c570b74e6e61064fd3fe') in 0.346324 seconds
+  Import took 0.348344 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/shoot.wav
+  artifactKey: Guid(dd518ea9ac551472a9c62d72ee8e980e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/shoot.wav using Guid(dd518ea9ac551472a9c62d72ee8e980e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40c282db0143adbefd838285e02001ac') in 0.006160 seconds
+  Import took 0.008021 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/background-music.wav
+  artifactKey: Guid(5965d585b37444a428ea41bec95e3314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/background-music.wav using Guid(5965d585b37444a428ea41bec95e3314) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8116789a001456dd783c71ecfb7dac3f') in 0.006276 seconds
+  Import took 0.008209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 52.564944 seconds.
+  path: Assets/Assets/hextraction_pod.fbx
+  artifactKey: Guid(cdf5e20f23e574544ab55dbbbfa8809a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/hextraction_pod.fbx using Guid(cdf5e20f23e574544ab55dbbbfa8809a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ec2a706e584cb46b133184ebf46a3e') in 1.256110 seconds
+  Import took 1.258850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000197 seconds.
+  path: Assets/Assets/p_pod_spec.jpg
+  artifactKey: Guid(986ad2fed090d1f4e87e7be42bd56464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/p_pod_spec.jpg using Guid(986ad2fed090d1f4e87e7be42bd56464) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '364bd301e43cfea1ac4d39dc8d114e00') in 0.006780 seconds
+  Import took 0.008730 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000189 seconds.
+  path: Assets/Assets/p_pod_emission.jpg
+  artifactKey: Guid(ce4e9dc8f00e94048ac9f54a709d2d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/p_pod_emission.jpg using Guid(ce4e9dc8f00e94048ac9f54a709d2d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9172cd486d0d480a924c590c00255343') in 0.004384 seconds
+  Import took 0.006352 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Assets/p_pod_diffuse.jpg
+  artifactKey: Guid(b1c92b87a1e76b64e981a54254442c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/p_pod_diffuse.jpg using Guid(b1c92b87a1e76b64e981a54254442c40) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64a5fcb4d75e2d37de36fc2290fade32') in 0.006024 seconds
+  Import took 0.008132 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000183 seconds.
+  path: Assets/Assets/p_pod_normal.jpg
+  artifactKey: Guid(6d736aaab8eecab4f913eca24655c823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Assets/p_pod_normal.jpg using Guid(6d736aaab8eecab4f913eca24655c823) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '93e12f725bb2783f5d7ada87979bfb7a') in 0.048522 seconds
+  Import took 0.050660 seconds .
+
